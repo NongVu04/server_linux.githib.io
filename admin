@@ -2,17 +2,17 @@
     "success": 200,
     "admin": {
         "id": "admin",
-        "pw1": "111",
-        "pw2": "111"
+        "pw1": "vu04",
+        "pw2": "vu04"
     },
-    "hacker": {
-        "id": "admin",
-        "pw1": "222",
-        "pw2": "222"
+    "vai": {
+        "id": "1",
+        "pw1": "vao",
+        "pw2": "vao"
     },
-    "people": {
-        "id": "admin",
-        "pw1": "333",
-        "pw2": "333"
+    "ctv": {
+        "id": "2",
+        "pw1": "ctv1",
+        "pw2": "ctv1"
     }
 }
