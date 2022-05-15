@@ -54,5 +54,15 @@
         "id": "thanhdanh",
         "pw1": "930039",
         "pw2": "930039"
+    },
+    "Duc712": {
+        "id": "Duc712",
+        "pw1": "congacon",
+        "pw2": "congacon"
+    },
+    "chung123": {
+        "id": "chung123",
+        "pw1": "chung123",
+        "pw2": "chung123"
     }
 }
