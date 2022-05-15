@@ -10,9 +10,9 @@
         "pw1": "vao",
         "pw2": "vao"
     },
-    "ctv": {
-        "id": "ctv",
-        "pw1": "ctv1",
-        "pw2": "ctv1"
+    "demo": {
+        "id": "demo",
+        "pw1": "1234",
+        "pw2": "1234"
     }
 }
