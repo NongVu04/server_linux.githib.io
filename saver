@@ -1,7 +1,8 @@
 {
     "Server": 200,
     "host": {
-        "Status": "off",
-        "msg": "Text..."
+        "Status": "on",
+        "msg": "Text...",
+        "admin": "on",
     }
 }
