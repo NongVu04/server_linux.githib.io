@@ -1,4 +1,7 @@
-"host":{
-    "Status": "on",
-    "msg": "Text document..."
+{
+    "Server": 200,
+    "host": {
+        "Status": "on",
+        "msg": "Text..."
+    }
 }
