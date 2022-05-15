@@ -6,12 +6,12 @@
         "pw2": "vu04"
     },
     "vai": {
-        "id": "1",
+        "id": "vai",
         "pw1": "vao",
         "pw2": "vao"
     },
     "ctv": {
-        "id": "2",
+        "id": "ctv",
         "pw1": "ctv1",
         "pw2": "ctv1"
     }
