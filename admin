@@ -10,9 +10,14 @@
         "pw1": "vao",
         "pw2": "vao"
     },
-    "Demo": {
-        "id": "demo",
-        "pw1": "1234",
-        "pw2": "1234"
+    "manhhieu": {
+        "id": "manhhieu",
+        "pw1": "nmh2007_3101",
+        "pw2": "nmh2007_3101"
+    },
+    "thieudanh141104": {
+        "id": "thieudanh141104",
+        "pw1": "thieudanh141104",
+        "pw2": "thieudanh141104"
     }
 }
