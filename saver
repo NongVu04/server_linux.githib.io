@@ -3,6 +3,6 @@
     "host": {
         "Status": "on",
         "msg": "Text...",
-        "admin": "on",
+        "admin": "on"
     }
 }
