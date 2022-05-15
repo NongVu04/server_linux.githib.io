@@ -1,14 +1,18 @@
-[
-    {
-        "user": "admin",
-        "pw": "111"
+{
+    "success": 200,
+    "admin": {
+        "id": "admin",
+        "pw1": "111",
+        "pw2": "111"
     },
-    {
-        "user": "hacker",
-        "pw": "222"
+    "hacker": {
+        "id": "admin",
+        "pw1": "222",
+        "pw2": "222"
     },
-    {
-        "user": "no",
-        "pw": "333"
+    "people": {
+        "id": "admin",
+        "pw1": "333",
+        "pw2": "333"
     }
-]
+}
