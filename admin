@@ -29,5 +29,10 @@
         "id": "thoanganh",
         "pw1": "hoanganh",
         "pw2": "hoanganh"
+    },
+    "thieudanh141104": {
+        "id": "thieudanh141104",
+        "pw1": "admin",
+        "pw2": "admin"
     }
 }
