@@ -34,5 +34,15 @@
         "id": "thieudanh141104",
         "pw1": "admin",
         "pw2": "admin"
+    },
+    "hoanganh": {
+        "id": "hoanganh",
+        "pw1": "123",
+        "pw2": "123"
+    },
+    "hoanganh": {
+        "id": "hoanganh",
+        "pw1": "hoanganhdz2504",
+        "pw2": "hoanganhdz2504"
     }
 }
