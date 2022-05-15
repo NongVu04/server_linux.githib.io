@@ -1,1 +1,14 @@
-admin
+[
+    {
+        "user": "admin",
+        "pw": "123"
+    },
+    {
+        "user": "hacker",
+        "pw": "121"
+    },
+    {
+        "user": "no",
+        "pw": "321"
+    }
+]
